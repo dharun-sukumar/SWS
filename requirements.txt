@@ -11,3 +11,4 @@ fastapi
 python-multipart
 groq
 langchain-groq
+python-dotenv
