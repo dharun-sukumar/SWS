@@ -9,3 +9,5 @@ langchain-ollama
 uvicorn
 fastapi
 python-multipart
+groq
+langchain-groq
